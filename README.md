@@ -3,7 +3,15 @@
 
   ### **Olá, meu nome é Kauê Gabriel da Silva Monteiro**
   #### Tenho 17 anos
-  #### Programando por diversão
+  #### Programando por diversão 🚀
+
+  | Tecnologia   | Nível      |
+  |--------------|--------------|
+  | HTML         | Intermediário| 
+  | CSS          | Intermediário| 
+  | JavaScript   | Básico       |
+
 </div>
+
 
 
