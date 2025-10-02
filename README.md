@@ -14,7 +14,7 @@
   | Java         | Básico       |
 
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkabriel.on/)
-
+  [![Itch.IO](https://manokg.itch.io/)
 </div>
 
 
