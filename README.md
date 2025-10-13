@@ -1,8 +1,7 @@
 <div align="center">
   <h1> KaueDev </h1>
 
-  ### **Olá, meu nome é Kauê Gabriel da Silva Monteiro, atualmente tenho 18 anos**
-
+  ### **Olá, meu nome é Kauê Gabriel da Silva Monteiro, tenho 18 anos**
   #### Tenho atualmente conhecimentos em:
   [![My Skills](https://skillicons.dev/icons?i=godot,python,java,js,html,css)](https://skillicons.dev)
 
