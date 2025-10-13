@@ -4,8 +4,8 @@
   ### **Olá, meu nome é Kauê Gabriel da Silva Monteiro**
   #### 18 anos
 
-  Tenho atualmente conhecimentos em:
-  [![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css)](https://skillicons.dev)
+  #### Tenho atualmente conhecimentos em:
+  [![My Skills](https://skillicons.dev/icons?i=godot,python,java,js,html,css)](https://skillicons.dev)
 
   Outros links:
   
