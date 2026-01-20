@@ -1,7 +1,7 @@
 <div align="center">
   <h1> KaueDev </h1>
 
-  ### **Aqui quem fala é Kauê Gabriel da Silva Monteiro**
+  ### **Me chamo Kauê Gabriel da Silva Monteiro**
   #### Tenho conhecimentos em:
   [![My Skills](https://skillicons.dev/icons?i=godot,python,java,js,html,css)](https://skillicons.dev)
 
